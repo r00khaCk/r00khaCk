@@ -1,5 +1,5 @@
 # Hello there!
-My name is Deilan Raj, newbie cybersecurity student that is learning hacking, networking and bash. <br />
+My name is Deilan Raj, a Computer Science graduate who specialized in Cybersecurity. I am passionate in all things cybersecurity and very recently programming especially in backend. Currently taking courses in learning all necessary hands-on skills for cybersecurity and improving my coding skills. <br />
 
 ## :mega: This profile is still in construction :mega: <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r00khaCk&show_icons=true&theme=onedark&hide=contribs,prs,issues) <br />
